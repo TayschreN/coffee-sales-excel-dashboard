@@ -1,4 +1,4 @@
-# Coffee Sales Analysis Dashboard (Projeto em Excel)
+# Coffee Sales Analysis Dashboard (Excel)
 
 ## Visão Geral do Projeto
 
@@ -8,7 +8,11 @@ O propósito foi criar uma ferramenta dinâmica de Business Intelligence que per
 
 ---
 
-## Objetivos
+![Dashboard](Dashboard.png)
+
+---
+
+## Objetivos:
 
 ### 1. Preparação dos Dados
 - Limpeza e estruturação dos dados brutos
@@ -34,7 +38,7 @@ O propósito foi criar uma ferramenta dinâmica de Business Intelligence que per
 
 ---
 
-## Principais Insights
+## Principais Insights:
 
 - Crescimento de receita mês a mês
 - Identificação dos horários mais movimentados
@@ -43,7 +47,7 @@ O propósito foi criar uma ferramenta dinâmica de Business Intelligence que per
 
 ---
 
-## Ferramentas Utilizadas
+## Ferramentas Utilizadas:
 
 - Microsoft Excel
 - Tabelas Dinâmicas
@@ -51,16 +55,9 @@ O propósito foi criar uma ferramenta dinâmica de Business Intelligence que per
 - Segmentação de Dados
 - Técnicas de Limpeza de Dados
 - Design de Dashboard
-
 ---
 
-## Visualização do Dashboard
-
-![Preview](Dashboard.png)
-
----
-
-## Impacto no Negócio
+## Impactos no Negócio:
 
 - Otimização de equipe
 - Foco em produtos estratégicos
@@ -68,8 +65,13 @@ O propósito foi criar uma ferramenta dinâmica de Business Intelligence que per
 - Decisões orientadas por dados
 
 ---
+## Aprendizado:
+
+Este projeto foi desenvolvido acompanhando a aula disponível neste vídeo: https://www.youtube.com/watch?v=OMFlZ6PI6Sk.
+Ao longo do projeto, aprofundei meus conhecimentos em conceitos e técnicas importantes 
+Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e Business Intelligence.
+
 
 Gabriel França da Silva  
 Analista de Dados  
 LinkedIn: https://www.linkedin.com/in/gabrielfranca123/
-Github: https://github.com/TayschreN
