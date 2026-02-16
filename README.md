@@ -1,4 +1,4 @@
-# Coffee Sales Analysis Dashboard (Excel)
+# Vendas de uma Cafeteria  - Dashboard (Excel)
 
 ## Visão Geral do Projeto
 
@@ -75,3 +75,4 @@ Recomendo fortemente para quem deseja evoluir seus estudos em Data Analytics e B
 Gabriel França da Silva  
 Analista de Dados  
 LinkedIn: https://www.linkedin.com/in/gabrielfranca123/
+
